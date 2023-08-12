@@ -37,7 +37,7 @@
         text-align: center;
   }
 
-  #ad, #not-ad {
+  #not-ad {
     display: flex;
         justify-content: center;
         align-items: center;
